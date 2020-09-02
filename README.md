@@ -1,4 +1,4 @@
 # SimonGame
 My simulation of Simon Game 
 
-Enjoy!
+Open index.html in your local browser and enjoy!
